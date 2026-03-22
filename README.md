@@ -50,5 +50,5 @@ Solutions are written in **Python** and **JavaScript/TypeScript**, with a focus 
 - Greedy
 
 <p align="center">
-  Feito com 💻 e ☕ · Made with 💻 and ☕
+  Made with 💻 and ☕
 </p>
