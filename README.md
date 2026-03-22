@@ -33,8 +33,6 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 
 Solutions are written in **Python** and **JavaScript/TypeScript**, with a focus on clarity, efficiency, and best practices.
 
----
-
 ## 🧠 Tópicos Cobertos · Topics Covered
 
 - Array & String
@@ -50,8 +48,6 @@ Solutions are written in **Python** and **JavaScript/TypeScript**, with a focus 
 - Dynamic Programming
 - Backtracking
 - Greedy
-
----
 
 <p align="center">
   Feito com 💻 e ☕ · Made with 💻 and ☕
